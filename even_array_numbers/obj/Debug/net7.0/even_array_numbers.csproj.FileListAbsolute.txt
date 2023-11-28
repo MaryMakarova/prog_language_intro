@@ -1,0 +1,15 @@
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/bin/Debug/net7.0/even_array_numbers
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/bin/Debug/net7.0/even_array_numbers.deps.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/bin/Debug/net7.0/even_array_numbers.runtimeconfig.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/bin/Debug/net7.0/even_array_numbers.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/bin/Debug/net7.0/even_array_numbers.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.csproj.AssemblyReference.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.AssemblyInfoInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.AssemblyInfo.cs
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.csproj.CoreCompileInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/refint/even_array_numbers.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/even_array_numbers.genruntimeconfig.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2/even_array_numbers/obj/Debug/net7.0/ref/even_array_numbers.dll
