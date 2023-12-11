@@ -1,0 +1,15 @@
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.csproj.AssemblyReference.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.AssemblyInfoInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.AssemblyInfo.cs
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.csproj.CoreCompileInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/bin/Debug/net7.0/natural_numbers_in_between
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/bin/Debug/net7.0/natural_numbers_in_between.deps.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/bin/Debug/net7.0/natural_numbers_in_between.runtimeconfig.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/bin/Debug/net7.0/natural_numbers_in_between.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/bin/Debug/net7.0/natural_numbers_in_between.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/refint/natural_numbers_in_between.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/natural_numbers_in_between.genruntimeconfig.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/natural_numbers_in_between/obj/Debug/net7.0/ref/natural_numbers_in_between.dll

@@ -1,0 +1,15 @@
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.csproj.AssemblyReference.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.AssemblyInfoInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.AssemblyInfo.cs
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.csproj.CoreCompileInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/bin/Debug/net7.0/array_elements_from_end
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/bin/Debug/net7.0/array_elements_from_end.deps.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/bin/Debug/net7.0/array_elements_from_end.runtimeconfig.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/bin/Debug/net7.0/array_elements_from_end.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/bin/Debug/net7.0/array_elements_from_end.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/refint/array_elements_from_end.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/array_elements_from_end.genruntimeconfig.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/array_elements_from_end/obj/Debug/net7.0/ref/array_elements_from_end.dll
