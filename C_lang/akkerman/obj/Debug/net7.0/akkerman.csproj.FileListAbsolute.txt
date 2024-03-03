@@ -1,0 +1,15 @@
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.csproj.AssemblyReference.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.AssemblyInfoInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.AssemblyInfo.cs
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.csproj.CoreCompileInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/bin/Debug/net7.0/akkerman
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/bin/Debug/net7.0/akkerman.deps.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/bin/Debug/net7.0/akkerman.runtimeconfig.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/bin/Debug/net7.0/akkerman.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/bin/Debug/net7.0/akkerman.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/refint/akkerman.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/akkerman.genruntimeconfig.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/akkerman/obj/Debug/net7.0/ref/akkerman.dll

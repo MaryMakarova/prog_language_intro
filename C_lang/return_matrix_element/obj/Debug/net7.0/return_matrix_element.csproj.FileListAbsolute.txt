@@ -1,0 +1,15 @@
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.csproj.AssemblyReference.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.AssemblyInfoInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.AssemblyInfo.cs
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.csproj.CoreCompileInputs.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/bin/Debug/net7.0/return_matrix_element
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/bin/Debug/net7.0/return_matrix_element.deps.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/bin/Debug/net7.0/return_matrix_element.runtimeconfig.json
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/bin/Debug/net7.0/return_matrix_element.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/bin/Debug/net7.0/return_matrix_element.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/refint/return_matrix_element.dll
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.pdb
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/return_matrix_element.genruntimeconfig.cache
+/Users/m.makarova/Desktop/GB/git_edu/C_Examples/home_work_2_4/return_matrix_element/obj/Debug/net7.0/ref/return_matrix_element.dll
